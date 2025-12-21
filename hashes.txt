@@ -1,6 +1,6 @@
-﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\OneDrive\Desktop\compared t tokenization\hashes.txt
-E8004714FEE66E6BF907FAB61681445DE62D57617AB6FF7F0CC0C3DE17F9E3A7 *C:\Users\Spenc\OneDrive\Desktop\compared t tokenization\Screenshot 2025-12-21 014202.png
-3575C98246028D8C33AD17430A4E9374DB4250C4890818AA8BE0C2A5D9CE82B6 *C:\Users\Spenc\OneDrive\Desktop\compared t tokenization\Screenshot 2025-12-21 014230.png
-B050822FE304DD49EEE9B6ECD3CD0D9318D67ADCFC0CB543CCD666D094AB0C00 *C:\Users\Spenc\OneDrive\Desktop\compared t tokenization\Why tokenization cannot work without these functions.docx
-1C6C0F8FF67F78DC54346FAE3E960110359E4A647EE943124198FA4E1C181183 *C:\Users\Spenc\OneDrive\Desktop\compared t tokenization\Why tokenization cannot work without these functions.md
-8902D617E712E8C2D838874BE366F5DC82DF15777456759E6012D5C3776BB918 *C:\Users\Spenc\OneDrive\Desktop\compared t tokenization\Why tokenization cannot work without these functions.pdf
+﻿E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855 *C:\Users\Spenc\OneDrive\Desktop\Why Mint-to Logic™ Has No Alternative\hashes.txt
+036BC843BF7361BD9972E5C745E9E98B16E2734672C24D267CEE14F1A7F99A5D *C:\Users\Spenc\OneDrive\Desktop\Why Mint-to Logic™ Has No Alternative\Screenshot 2025-12-21 021237.png
+C123353238D71D528B7E1F674B9F5F4E66D9B13E124E017E2C595F73137D4B98 *C:\Users\Spenc\OneDrive\Desktop\Why Mint-to Logic™ Has No Alternative\Screenshot 2025-12-21 021308.png
+87E8D29BAF91468676D9373089C14C48B809C222AAE3F3F902E3947E41956387 *C:\Users\Spenc\OneDrive\Desktop\Why Mint-to Logic™ Has No Alternative\Why Mint-to Logic™ Has No Alternative.docx
+662ADD44795DA98CFE12FC717D12A97AFFB36D046F52E0C1DEFCD665CBC1C5A4 *C:\Users\Spenc\OneDrive\Desktop\Why Mint-to Logic™ Has No Alternative\Why Mint-to Logic™ Has No Alternative.md
+51EBE0288A2A81D5AFB1B779410956A4934C00818CFD05B489087081235464D2 *C:\Users\Spenc\OneDrive\Desktop\Why Mint-to Logic™ Has No Alternative\Why Mint-to Logic™ Has No Alternative.pdf
